@@ -8,7 +8,7 @@ class Dog
     @name
   end
 
-  def name(name)
-    @name = name
+  def name(nname)
+    @name = nname
   end
 end
